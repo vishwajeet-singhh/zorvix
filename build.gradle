@@ -1,0 +1,62 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.5.15'
+    id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'com.orvix'
+version = '0.1.0'
+description = 'Orvix - local-first AI code review assistant'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    picocliVersion = '4.7.7'
+    jgitVersion = '7.7.0.202606012155-r'
+    javaparserVersion = '3.28.2'
+    pmdVersion = '7.25.0'
+    // Override the version managed by the Spring Boot BOM (3.17.0), which is vulnerable to
+    // CVE-2025-48924. 3.20.0 is what PMD itself depends on and is patched.
+    set('commons-lang3.version', '3.20.0')
+}
+
+dependencies {
+    // Spring Boot core (DI + config binding). Web is disabled at runtime.
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-json'
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
+
+    // CLI
+    implementation "info.picocli:picocli:${picocliVersion}"
+
+    // Git analysis (read-only)
+    implementation "org.eclipse.jgit:org.eclipse.jgit:${jgitVersion}"
+
+    // Java source parsing for change/context resolution
+    implementation "com.github.javaparser:javaparser-core:${javaparserVersion}"
+
+    // Static analysis (PMD runs on source, no compilation required)
+    implementation "net.sourceforge.pmd:pmd-core:${pmdVersion}"
+    implementation "net.sourceforge.pmd:pmd-java:${pmdVersion}"
+
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
+
+// Generates META-INF/build-info.properties so the running app can report its version
+// (consumed via Spring's BuildProperties bean in VersionCommand / HealthCommand).
+springBoot {
+    buildInfo()
+}

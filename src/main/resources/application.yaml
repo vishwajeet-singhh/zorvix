@@ -1,0 +1,45 @@
+spring:
+  application:
+    name: orvix
+  main:
+    web-application-type: none
+    banner-mode: off
+    log-startup-info: false
+
+# Quiet, CLI-friendly logging. User-facing progress is emitted directly (stderr), not via loggers,
+# so keep loggers at WARN and silence PMD's verbose internal notices.
+logging:
+  level:
+    root: WARN
+    com.orvix: WARN
+    net.sourceforge.pmd: "OFF"
+  pattern:
+    console: "%msg%n"
+
+orvix:
+  ollama:
+    base-url: http://localhost:11434
+    model: qwen2.5-coder:7b
+    # Auto-provisioning for machines without Ollama / the model.
+    auto-start: true        # try to start Ollama (docker compose) if not reachable
+    auto-pull: true         # pull the model if missing
+    startup-timeout: 120s   # how long to wait for Ollama to become reachable
+    request-timeout: 300s   # per inference call
+    docker-compose-service: ollama
+    keep-alive: 30m         # keep the model loaded between calls (avoids reload latency)
+    num-ctx: 8192           # model context window (larger = more context, slower)
+  review:
+    # Base branch auto-detection priority (first existing wins). Override with --base.
+    base-branch-priority:
+      - origin/dev
+      - origin/develop
+      - origin/main
+      - origin/master
+      - dev
+      - develop
+      - main
+      - master
+    # Context budget: cap how much surrounding source is sent to the model.
+    max-context-chars: 24000
+    max-related-files: 12
+    report-dir: .orvix
