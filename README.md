@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/recusant-byte/Orvix/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/recusant-byte/Orvix/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -20,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
