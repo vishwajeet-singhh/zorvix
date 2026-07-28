@@ -1,9 +1,6 @@
 package com.orvix.own_ds;
 
 
-import java.io.PrintStream;
-import java.util.Arrays;
-
 public class LinkedListCheck {
 
 

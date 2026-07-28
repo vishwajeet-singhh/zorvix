@@ -1,43 +1,72 @@
 package com.orvix.own_ds;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-
 /**
- * ==========================
- * Linked List Progress
- * ==========================
- * <p>
- * Completed Operations:
- * <p>
- * - {@link #addLast(int)}
- * - {@link #addFirst(int)}
- * - {@link #removeFirst()}
- * - {@link #removeLast()}
- * - {@link #contains(int)}
- * - {@link #insertAt(int, int)}
- * - {@link #deleteAt(int)}
- * - {@link #reverse()}
- * - {@link #findMiddle()}
- * - {@link #get(int)}
- * - {@link #indexOf(int)}
- * - {@link #clear()}
- * - {@link #isEmpty()}
- * - {@link #toArray()}
- * - {@link #print()}
- * <p>
- * Advanced (To Do):
- * <p>
- * - detectCycle()
- * - removeCycle()
- * - kthFromEnd()
- * - mergeSortedLists()
- * - removeDuplicates()
- * - palindromeCheck()
- * - recursiveReverse()
+/**
+ * A singly linked list implementation.
+ *
+ * <p>Supports common linked list operations including insertion, deletion,
+ * searching, traversal, reversal, cycle detection, and conversion utilities.</p>
+ *
+ * <h2>Implemented Features</h2>
+ *
+ * <ul>
+ *     <li>Insertion
+ *         <ul>
+ *             <li>{@link #addFirst(int)}</li>
+ *             <li>{@link #addLast(int)}</li>
+ *             <li>{@link #insertAt(int, int)}</li>
+ *         </ul>
+ *     </li>
+ *
+ *     <li>Deletion
+ *         <ul>
+ *             <li>{@link #removeFirst()}</li>
+ *             <li>{@link #removeLast()}</li>
+ *             <li>{@link #deleteAt(int)}</li>
+ *         </ul>
+ *     </li>
+ *
+ *     <li>Searching
+ *         <ul>
+ *             <li>{@link #contains(int)}</li>
+ *             <li>{@link #indexOf(int)}</li>
+ *             <li>{@link #get(int)}</li>
+ *             <li>{@link #findMiddle()}</li>
+ *         </ul>
+ *     </li>
+ *
+ *     <li>Utilities
+ *         <ul>
+ *             <li>{@link #reverse()}</li>
+ *             <li>{@link #clear()}</li>
+ *             <li>{@link #isEmpty()}</li>
+ *             <li>{@link #toArray()}</li>
+ *             <li>{@link #print()}</li>
+ *         </ul>
+ *     </li>
+ *
+ *     <li>Cycle
+ *         <ul>
+ *             <li>{@link #detectCycle()}</li>
+ *             <li>{@link #removeCycle()}</li>
+ *             <li>{@link #createCycle(int)} (testing only)</li>
+ *         </ul>
+ *     </li>
+ * </ul>
+ *
+ * <h2>Roadmap</h2>
+ *
+ * <ul>
+ *     <li>kthFromEnd()</li>
+ *     <li>mergeSortedLists()</li>
+ *     <li>removeDuplicates()</li>
+ *     <li>palindromeCheck()</li>
+ *     <li>recursiveReverse()</li>
+ * </ul>
+ *
+ * @author Vishwajeet Pratap Singh
+ * @version 1.0
  */
 
 
@@ -229,7 +258,6 @@ public class LinkedList {
 
         Node prev = null;
         Node curr = head;
-        tail = head;
 
         while (curr != null) {
             Node next = curr.next;

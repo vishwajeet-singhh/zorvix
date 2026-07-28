@@ -5,85 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36b5707a-3e45-43f9-8dc5-8a5cb734e5f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/math/M01_GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/math/M02_LCM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/math/M03_Prime_Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/math/M04_SW_GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/own_ds/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/own_ds/LinkedListCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/own_ds/MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/own_ds/StackCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/recursion/R01_Rope_Cutting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/recursion/R02_Subset_of_String.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA/src/main/java/com/orvix/search/S01_Binary_Search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/CliRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/Orvix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/SpringPicocliFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/JsonReviewParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/OllamaClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/OllamaProvisioner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/OllamaUnavailableException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/ParsedReview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/ai/PromptBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/analysis/PmdAnalyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/analysis/StaticAnalysisService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/analysis/StaticAnalyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/AskCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/ChatCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/ExplainCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/HealthCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/OrvixCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/OrvixVersionProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/ReviewCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/cli/VersionCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/config/OrvixProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/context/ContextBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/context/ProjectIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/context/ProjectIndexer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/git/BaseBranch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/git/BranchResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/git/DiffAnalyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/git/GitService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/ChangeType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/ChangedFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/CodeContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/Confidence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/Finding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/RelatedSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/ReviewResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/model/Severity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/parse/JavaSourceParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/parse/ParsedJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/report/MarkdownReporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/report/ScoreCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/report/TerminalReporter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/review/AssistantService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/review/LoadedContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/review/NotARepositoryException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/review/ReviewContextLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/review/ReviewService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/OrvixApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/ai/JsonReviewParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/git/BranchResolverTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/git/DiffAnalyzerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/report/ScoreCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orvix/support/GitTestSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orvix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/Orvix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedListCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedListCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,9 +26,30 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="orvix" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -114,26 +61,48 @@
     <option name="showMembers" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/vishy/dev/Personal/orvix",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Orvix.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build orvix.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.orvix [:com.orvix.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.orvix [:com.orvix.Orvix.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vishy/dev/Personal/orvix&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Orvix">
+    <configuration name="Orvix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.orvix.Orvix" />
+      <module name="orvix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orvix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Orvix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="orvix.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.orvix.Orvix" />
@@ -141,6 +110,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Orvix" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -149,6 +123,9 @@
         <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.33813.25" />
       </set>
     </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -159,7 +136,11 @@
       <updated>1781980647917</updated>
       <workItem from="1781980649057" duration="11741000" />
       <workItem from="1782507829806" duration="488000" />
-      <workItem from="1784998770443" duration="374000" />
+      <workItem from="1784998770443" duration="664000" />
+      <workItem from="1784999466950" duration="6202000" />
+      <workItem from="1785151388416" duration="687000" />
+      <workItem from="1785231427024" duration="72000" />
+      <workItem from="1785231547002" duration="3000" />
     </task>
     <servers />
   </component>
