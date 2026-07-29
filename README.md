@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/recusant-byte/Orvix/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/recusant-byte/Orvix/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/recusant-byte/Orvix/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/recusant-byte/Orvix/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/recusant-byte/Orvix/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/recusant-byte/Orvix/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/recusant-byte/Orvix/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/recusant-byte/Orvix/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Interactive
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/recusant-byte/Orvix/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,15 +187,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
