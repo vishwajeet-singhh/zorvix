@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/recusant-byte/Orvix/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/recusant-byte/Orvix/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
