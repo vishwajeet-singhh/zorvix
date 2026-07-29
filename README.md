@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/recusant-byte/Orvix/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/recusant-byte/Orvix/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/recusant-byte/Orvix/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -156,5 +159,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
