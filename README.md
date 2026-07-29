@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/recusant-byte/Orvix/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/recusant-byte/Orvix/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/recusant-byte/Orvix/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/recusant-byte/Orvix/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/recusant-byte/Orvix/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/recusant-byte/Orvix/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/recusant-byte/Orvix/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
