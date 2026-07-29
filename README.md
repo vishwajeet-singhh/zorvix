@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/recusant-byte/Orvix/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/recusant-byte/Orvix/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/recusant-byte/Orvix/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/recusant-byte/Orvix/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/recusant-byte/Orvix/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
