@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/recusant-byte/Orvix/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/recusant-byte/Orvix/tree/master/3501-maximize-active-section-with-trade-ii) |
