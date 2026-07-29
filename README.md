@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/recusant-byte/Orvix/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/recusant-byte/Orvix/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/recusant-byte/Orvix/tree/master/0344-reverse-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/recusant-byte/Orvix/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/recusant-byte/Orvix/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/recusant-byte/Orvix/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/recusant-byte/Orvix/tree/master/0680-valid-palindrome-ii) |
