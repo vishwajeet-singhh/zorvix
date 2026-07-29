@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/recusant-byte/Orvix/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/recusant-byte/Orvix/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/recusant-byte/Orvix/tree/master/0394-decode-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/recusant-byte/Orvix/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/recusant-byte/Orvix/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/recusant-byte/Orvix/tree/master/1768-merge-strings-alternately) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/recusant-byte/Orvix/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
+| [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -214,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
