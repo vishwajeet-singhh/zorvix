@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/recusant-byte/Orvix/tree/master/1260-shift-2d-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/recusant-byte/Orvix/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/recusant-byte/Orvix/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/recusant-byte/Orvix/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
