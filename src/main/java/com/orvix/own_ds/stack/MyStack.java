@@ -1,4 +1,4 @@
-package com.orvix.own_ds;
+package com.orvix.own_ds.stack;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

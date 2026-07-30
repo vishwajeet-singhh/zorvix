@@ -1,4 +1,4 @@
-package com.orvix.own_ds;
+package com.orvix.own_ds.linkedlist;
 
 
 public class LinkedListCheck {

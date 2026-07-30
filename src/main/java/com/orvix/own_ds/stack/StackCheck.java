@@ -1,4 +1,4 @@
-package com.orvix.own_ds;
+package com.orvix.own_ds.stack;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

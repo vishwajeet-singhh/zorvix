@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36b5707a-3e45-43f9-8dc5-8a5cb734e5f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/queue/LinearQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/queue/QueueCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Orvix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/Orvix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedListCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedListCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/LinkedListCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/linkedlist/LinkedListCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/StackCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orvix/own_ds/stack/StackCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orvix/own_ds/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orvix/own_ds/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orvix/own_ds/LinkedListCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orvix/own_ds/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orvix/own_ds/StackCheck.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +50,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -64,6 +78,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Orvix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueCheck.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.Build orvix.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.orvix [:com.orvix.Main.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.orvix [:com.orvix.Orvix.main()].executor&quot;: &quot;Run&quot;,
@@ -89,13 +104,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Orvix">
+  <component name="RunManager" selected="Application.QueueCheck">
     <configuration name="Orvix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.orvix.Orvix" />
       <module name="orvix" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.orvix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.orvix.own_ds.queue.QueueCheck" />
+      <module name="orvix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orvix.own_ds.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueCheck" />
         <item itemvalue="Application.Orvix" />
       </list>
     </recent_temporary>
@@ -141,6 +170,11 @@
       <workItem from="1785151388416" duration="687000" />
       <workItem from="1785231427024" duration="72000" />
       <workItem from="1785231547002" duration="3000" />
+      <workItem from="1785293817462" duration="932000" />
+      <workItem from="1785294977975" duration="5095000" />
+      <workItem from="1785323625029" duration="609000" />
+      <workItem from="1785399942406" duration="784000" />
+      <workItem from="1785402067508" duration="46000" />
     </task>
     <servers />
   </component>
