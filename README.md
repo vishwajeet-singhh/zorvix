@@ -275,10 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/recusant-byte/Orvix/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/recusant-byte/Orvix/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -306,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/recusant-byte/Orvix/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
