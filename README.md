@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/recusant-byte/Orvix/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/recusant-byte/Orvix/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/recusant-byte/Orvix/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/recusant-byte/Orvix/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/recusant-byte/Orvix/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/recusant-byte/Orvix/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/recusant-byte/Orvix/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
