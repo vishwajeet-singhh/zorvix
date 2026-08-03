@@ -1,6 +1,8 @@
 package com.orvix.own_ds.linkedlist;
 
 
+import java.util.Stack;
+
 /**
 /**
  * A singly linked list implementation.
@@ -82,6 +84,8 @@ public class LinkedList {
 
         Node slow = head;
         Node fast = head;
+
+
 
         // Detect the cycle
         while (fast != null && fast.next != null) {
