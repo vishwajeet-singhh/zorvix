@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/recusant-byte/Orvix/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/recusant-byte/Orvix/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/recusant-byte/Orvix/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/recusant-byte/Orvix/tree/master/0204-count-primes) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/recusant-byte/Orvix/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/recusant-byte/Orvix/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/recusant-byte/Orvix/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/recusant-byte/Orvix/tree/master/0209-minimum-size-subarray-sum) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0543-diameter-of-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/recusant-byte/Orvix/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
