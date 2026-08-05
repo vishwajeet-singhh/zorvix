@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/recusant-byte/Orvix/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/recusant-byte/Orvix/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -336,12 +337,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/recusant-byte/Orvix/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/recusant-byte/Orvix/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/recusant-byte/Orvix/tree/master/0938-range-sum-of-bst) |
 ## Timsort
 |  |
 | ------- |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/recusant-byte/Orvix/tree/master/0069-sqrtx) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/recusant-byte/Orvix/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
