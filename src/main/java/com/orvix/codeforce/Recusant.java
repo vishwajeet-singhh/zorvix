@@ -1,9 +1,10 @@
 package com.orvix.codeforce;
 
-
 import java.util.*;
 
 public class Recusant {
+
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -11,48 +12,37 @@ public class Recusant {
 
         while (t-- > 0) {
             int n = sc.nextInt();
-            int q = sc.nextInt();
 
-            String s = sc.next();
-            String tt = sc.next();
+            int[] a = new int[n];
+            long total = 0;
 
-            int[] preS0 = new int[n + 1];
-            int[] preT0 = new int[n + 1];
-            int[] preA = new int[n + 1];
+            Map<Integer, Integer> freq = new HashMap<>();
 
-            for (int i = 1; i <= n; i++) {
-                char cs = s.charAt(i - 1);
-                char ct = tt.charAt(i - 1);
-
-                preS0[i] = preS0[i - 1] + (cs == '0' ? 1 : 0);
-                preT0[i] = preT0[i - 1] + (ct == '0' ? 1 : 0);
-                preA[i] = preA[i - 1] + ((cs == '0' && ct == '0') ? 1 : 0);
+            for (int i = 0; i < n; i++) {
+                a[i] = sc.nextInt();
+                total += a[i];
+                freq.put(a[i], freq.getOrDefault(a[i], 0) + 1);
             }
 
-            StringBuilder out = new StringBuilder();
+            int mxFreq = 0;
+            int mxValue = 0;
 
-            while (q-- > 0) {
-                int l = sc.nextInt();
-                int r = sc.nextInt();
-
-                int S0 = preS0[r] - preS0[l - 1];
-                int T0 = preT0[r] - preT0[l - 1];
-                int A = preA[r] - preA[l - 1];
-
-                int m = r - l + 1;
-                int S1 = m - S0;
-                int T1 = m - T0;
-
-                int Tx = Math.max(0, S0 - S1);
-                int Ty = Math.max(0, T0 - T1);
-
-                if (Tx + Ty <= 2 * A)
-                    out.append("YES\n");
-                else
-                    out.append("NO\n");
+            for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
+                if (entry.getValue() > mxFreq) {
+                    mxFreq = entry.getValue();
+                    mxValue = entry.getKey();
+                }
             }
 
-            System.out.print(out);
+            int others = n - mxFreq;
+
+            if (mxFreq <= others + 1) {
+                System.out.println(total);
+            } else {
+                long otherSum = total - (long) mxFreq * mxValue;
+                long ans = otherSum + (long) (others + 2) * mxValue;
+                System.out.println(ans);
+            }
         }
 
         sc.close();
