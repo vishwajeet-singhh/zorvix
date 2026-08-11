@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/recusant-byte/Orvix/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
+| [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
@@ -262,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/recusant-byte/Orvix/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/recusant-byte/Orvix/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/recusant-byte/Orvix/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/recusant-byte/Orvix/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
