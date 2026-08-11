@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/recusant-byte/Orvix/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishwajeet-singhh/zorvix/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/recusant-byte/Orvix/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/recusant-byte/Orvix/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishwajeet-singhh/zorvix/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/recusant-byte/Orvix/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/recusant-byte/Orvix/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/recusant-byte/Orvix/tree/master/3731-find-missing-elements) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishwajeet-singhh/zorvix/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/recusant-byte/Orvix/tree/master/3731-find-missing-elements) |
