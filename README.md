@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishwajeet-singhh/zorvix/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/recusant-byte/Orvix/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/recusant-byte/Orvix/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishwajeet-singhh/zorvix/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/recusant-byte/Orvix/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
