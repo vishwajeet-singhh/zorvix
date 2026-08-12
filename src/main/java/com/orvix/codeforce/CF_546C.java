@@ -50,16 +50,16 @@ public class CF_546C {
             }
 
 
-            int first_top = first.removeFirst();
-            int second_top = second.removeFirst();
+            int firstTop = first.removeFirst();
+            int secondTop = second.removeFirst();
 
 
-            if (first_top > second_top) {
-                first.addLast(second_top);
-                first.addLast(first_top);
+            if (firstTop > secondTop) {
+                first.addLast(secondTop);
+                first.addLast(firstTop);
             } else {
-                second.addLast(first_top);
-                second.addLast(second_top);
+                second.addLast(firstTop);
+                second.addLast(secondTop);
             }
             set.add(str);
             step++;
