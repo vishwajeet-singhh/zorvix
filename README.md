@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/recusant-byte/Orvix/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/recusant-byte/Orvix/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/recusant-byte/Orvix/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/recusant-byte/Orvix/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/recusant-byte/Orvix/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/recusant-byte/Orvix/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
+| [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/recusant-byte/Orvix/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/recusant-byte/Orvix/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
