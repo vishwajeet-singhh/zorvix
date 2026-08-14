@@ -1,32 +1,40 @@
 class Solution {
     public int findMin(int[] nums) {
 
-        int len = nums.length;
+        // 3,4,5,1,2
 
-        if (len == 0)
-            return -1;
+        /*
+        l = 0(3) , 3(1)
+        r = 4(2) , 4(2)
+        m = 2(5)
+        
+        3, 4, 5, 1, 2
+        0. 1  2. 3  4
 
-        if (len == 1)
-            return nums[0];
 
-        int left = 0;
-        int right = len - 1;
 
-        while (left < right) {
+        l = 0(4)  4(0)
+        r = 6(2)  6(2) 5(1)
+        m = 3(7)  5(1)
 
-            int midpoint = left + (right - left) / 2;
+        4, 5, 6, 7, 0, 1, 2
+        0  1  2. 3. 4. 5. 6
 
-            if (midpoint > 0 && nums[midpoint] < nums[midpoint - 1])
-                return nums[midpoint];
+        [11,13,15,17]
 
-            else if (nums[left] <= nums[midpoint] && nums[midpoint] > nums[right])
-                left = midpoint + 1;
-            else
-                right = midpoint - 1;
+               */
 
-        }
+            int left  =0, right = nums.length-1;
 
-        return nums[left];
+            while(left<right){
+                int mid = left +(right-left)/2;
+                if(nums[mid]>nums[right]) left = mid+1;
+                else right = mid;
+            }
+
+            return nums[left];
+
+
 
     }
 }
