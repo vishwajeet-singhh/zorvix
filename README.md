@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/recusant-byte/Orvix/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/recusant-byte/Orvix/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/recusant-byte/Orvix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/recusant-byte/Orvix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/recusant-byte/Orvix/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/recusant-byte/Orvix/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vishwajeet-singhh/zorvix/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/recusant-byte/Orvix/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vishwajeet-singhh/zorvix/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/recusant-byte/Orvix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/recusant-byte/Orvix/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/recusant-byte/Orvix/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -414,15 +419,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
