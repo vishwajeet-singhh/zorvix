@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/recusant-byte/Orvix/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/recusant-byte/Orvix/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/vishwajeet-singhh/zorvix/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/recusant-byte/Orvix/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/recusant-byte/Orvix/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/recusant-byte/Orvix/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/recusant-byte/Orvix/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/vishwajeet-singhh/zorvix/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/recusant-byte/Orvix/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/recusant-byte/Orvix/tree/master/3312-sorted-gcd-pair-queries) |
