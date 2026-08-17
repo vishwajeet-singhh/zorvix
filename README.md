@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/recusant-byte/Orvix/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/recusant-byte/Orvix/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/vishwajeet-singhh/zorvix/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/recusant-byte/Orvix/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/recusant-byte/Orvix/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vishwajeet-singhh/zorvix/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/recusant-byte/Orvix/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/recusant-byte/Orvix/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vishwajeet-singhh/zorvix/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/recusant-byte/Orvix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/recusant-byte/Orvix/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vishwajeet-singhh/zorvix/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/vishwajeet-singhh/zorvix/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vishwajeet-singhh/zorvix/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
