@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/recusant-byte/Orvix/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/recusant-byte/Orvix/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/vishwajeet-singhh/zorvix/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/recusant-byte/Orvix/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/recusant-byte/Orvix/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/recusant-byte/Orvix/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/recusant-byte/Orvix/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/vishwajeet-singhh/zorvix/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/recusant-byte/Orvix/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/recusant-byte/Orvix/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/vishwajeet-singhh/zorvix/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/recusant-byte/Orvix/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/recusant-byte/Orvix/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/recusant-byte/Orvix/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
