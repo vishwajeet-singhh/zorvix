@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/recusant-byte/Orvix/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/recusant-byte/Orvix/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/recusant-byte/Orvix/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishwajeet-singhh/zorvix/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet-singhh/zorvix/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/recusant-byte/Orvix/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/recusant-byte/Orvix/tree/master/0486-predict-the-winner) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/recusant-byte/Orvix/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/recusant-byte/Orvix/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishwajeet-singhh/zorvix/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/recusant-byte/Orvix/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/recusant-byte/Orvix/tree/master/0881-boats-to-save-people) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/recusant-byte/Orvix/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/recusant-byte/Orvix/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/vishwajeet-singhh/zorvix/tree/master/0355-design-twitter) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishwajeet-singhh/zorvix/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet-singhh/zorvix/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/recusant-byte/Orvix/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/vishwajeet-singhh/zorvix/tree/master/0645-set-mismatch) |
